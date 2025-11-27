@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+<img width="577" height="322" alt="image" src="https://github.com/user-attachments/assets/fc45cf4a-e452-47da-bd50-d12bb09a7477" /># HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -55,9 +55,11 @@ Figure -02 HALF Subtractor
 Developed by: Abdul Rahim .M RegisterNumber: 25015778 */
 
 **RTL Schematic**
-<img width="518" height="245" alt="image" src="https://github.com/user-attachments/assets/1a89e80b-309a-4c20-8801-9f1280a4ba85" />
+<img width="577" height="322" alt="image" src="https://github.com/user-attachments/assets/f7029fbc-65ee-4e31-a1e7-a65a8e34a46d" />
+
 
 **Output/TIMING Waveform**
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9634cbd3-81d6-4bb6-a167-857486bf24de" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/aaea9c50-f4ec-4db6-b3ea-fcb46c71ec11" />
+
 
 **Result:**
